@@ -1,0 +1,168 @@
+h1
+{
+    background-color:#033949;
+    color:#a3ff15;
+    background-size: cover;  
+    z-index: 1; 
+    font-size: 40px;
+}
+header
+{
+    background-image:url("imgcss/design1_image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    z-index: 1;
+}
+.class-contenido
+{
+    display:inline;
+    position: absolute;
+    top:150px;
+    left:10px;
+}
+
+#home 
+{
+    float: top;
+    text-decoration: none;
+    padding: 5px 5px;
+    display: inline-block;
+    border: black;
+    margin: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color:white;
+    background-color: blue;
+}
+#logo
+{
+    width: 90px;
+    background: 0px;
+    background-color:none;
+    object-position: right;      
+    margin-right: 10px;
+    margin-top: 0px;
+    float: right;
+}
+ul
+{
+    display:inline;
+    position: absolute;
+    top:360px;
+    right:200px;
+}
+
+#home 
+{
+    float: top;
+    text-decoration: none;
+    padding: 5px 5px;
+    display: inline-block;
+    border: black;
+    margin: 5px;
+    font-weight: 600;
+    font-size: 30px;
+    color:white;
+    background-color:#033949;
+
+}
+#about
+{
+    float: top;
+    text-decoration: none;
+    padding: 5px 5px;
+    border: black;
+    margin: 5px;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 30px;
+    color:white;
+    background-color: #033949;
+}
+
+#contact
+{
+    float: top;
+    text-decoration: none;
+    padding: 5px 5px;
+    border: black;
+    margin: 5px;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 30px;
+    color:white;
+    background-color:#033949;
+}
+#gallery
+{   
+    float: top;
+    text-decoration: none;
+    padding: 5px 5px;
+    border: black;
+    margin: 5px;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 30px;
+    color:white;
+    background-color:#033949;
+}
+h2
+{
+    font-size: 50px;
+    background-color:#033949;
+    color:#a3ff15;
+    background-size: cover;
+    margin-top: 0px;
+    float: unset;
+    text-align:center;
+    border: black;
+}
+h3
+{
+    font-size: 25px;
+    background-color:#033949;
+    color:white;
+    background-size: cover;
+    margin-top: 0px;
+    float: unset;
+    text-align:left;
+    border: black;
+}
+
+.grid-container
+{
+    display: grid;
+    width: 80%;
+    max-width:800px;
+    margin-left: 20%;
+    margin-right: 20%;
+    grid-template-columns:50% 50%;
+    grid-template-rows: 30% 30% 20% 20%;
+    grid-gap:10px;
+    padding: 5px;
+    background-color:white;
+}
+
+.grid-item 
+{
+    width: 100%;
+    height: auto;
+    size: cover;
+    max-width: auto;
+    border: solid 10px #a3ff15;
+    justify-content: center;
+    align-content: center;
+}
+
+img
+{
+    justify-content: center;
+    align-content: center;
+}
+
+.rules
+{
+    display: flex;
+
+}

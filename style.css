@@ -1,0 +1,57 @@
+html
+{
+    background-image: none;
+    
+}
+header
+{
+    background-image: url("imgcss/design1_image1.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    height: 400px;
+    z-index: -1;
+}
+h1
+{
+    font-size: 50px;
+}
+h2
+{
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    background-size: cover;
+    margin-top: 0px;
+    float: unset;
+    text-align:center;
+    z-index: 1;
+}
+h3
+{
+    font-size: 30px;
+}
+#logo
+{
+    width: 90px;
+    background: 0px;
+    background-color:none;
+    object-position: right;      
+    margin-right: 40px;
+    margin-top: 0px;
+    float: right;
+    z-index: 3;
+}
+.class-botones{
+    float: unset;
+text-align: left;
+ width: 100%;
+ margin: auto;
+}
+
+.class-contenido
+{
+    text-align: center;
+     width: 100%;
+     margin: auto;
+    }

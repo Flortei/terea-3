@@ -1,0 +1,30 @@
+         <dl>
+             <dt><strong> TERMINATION</strong></dt>
+             <dd>
+                 <ul>
+                     <li>Any game terminated after 15 minutes into the second half by the referee
+                        by reason of the elements, or by reason of grave disorder on the part of
+                        the coaches, players or spectators of a team that is losing at the point that
+                        the game is terminated, shall stand as a completed game. If a team is
+                        ahead and the game is called because of their actions they will lose the
+                        game 1-0.</li>
+                 </ul>
+             </dd>
+         </dl>
+         <dl>
+            <dt><strong>CONDITIONS OF REPLAY OF GAMES</strong></dt>
+            <dd>
+                <ul>
+                    <li>Any game which is required to be replayed as a result of any protest or
+                        appeal, shall be subject to the following conditions:</li>
+                </ul>
+                <ol>
+                    <li>Any game which is required to be replayed as a result of any protest or
+                        appeal, shall be subject to the following conditions:</li>
+                    <li>Impartial referees shall be assigned to the new game.</li>
+                    <li>The PROTEST AND APPEALS COMMITTEE shall have the power
+                        to impose such additional conditions on the replay of the game, as
+                        it deems appropriate under the circumstances.</li>    
+                </ol>
+            </dd>
+        </dl>
